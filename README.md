@@ -23,13 +23,13 @@ This is a simple Recipe Management System built with PHP and MySQL. The system a
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/recipe-management-system.git
+    git clone https://github.com/bathuchan/php-foodsite.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```sh
-    cd recipe-management-system
+    cd php-foodsite
     ```
 
 3. **Set up the database:**
@@ -37,12 +37,12 @@ This is a simple Recipe Management System built with PHP and MySQL. The system a
     - Import the provided SQL file (`proje_php.sql`) into your MySQL database using phpMyAdmin or the MySQL command line:
 
     ```sh
-    mysql -u username -p database_name < recipe_management.sql
+    mysql -u username -p database_name < proje_php.sql
     ```
 
 4. **Update the database configuration:**
 
-    - Open `config.php` and update the database connection details with your own.
+    - Open necessary files and update the database connection details with your own.
 
     ```php
     <?php
@@ -82,12 +82,8 @@ This is a simple Recipe Management System built with PHP and MySQL. The system a
 
 ## Database Structure
 
-The database contains a single table named `recipes`:
+The database contains two tables named `users` `yemekler`:
 
-- **id**: INT, Primary Key, Auto Increment
-- **name**: VARCHAR(255), NOT NULL
-- **ingredients**: TEXT, NOT NULL
-- **instructions**: TEXT, NOT NULL
 
 ## SQL Export File
 
@@ -98,5 +94,6 @@ An SQL export file (`php_proje.sql`) is provided to set up the database structur
 
 - This project uses [Bootstrap](https://getbootstrap.com/) for styling.
 - Icons are provided by [Glyphicons](https://glyphicons.com/).
+- Here check this project online [Click Here](http://95.130.171.20/~st20360859008).
 
 
