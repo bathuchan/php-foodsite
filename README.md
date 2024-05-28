@@ -8,6 +8,7 @@ This is a simple Recipe Management System built with PHP and MySQL. The system a
 - Edit existing recipes.
 - Delete recipes from the database.
 - View a list of all recipes.
+- [For video demonstration]([click here](www.google.com))
 
 ## Installation
 
@@ -95,5 +96,6 @@ An SQL export file (`php_proje.sql`) is provided to set up the database structur
 - This project uses [Bootstrap](https://getbootstrap.com/) for styling.
 - Icons are provided by [Glyphicons](https://glyphicons.com/).
 - Here check this project online [Click Here](http://95.130.171.20/~st20360859008).
+  
 
 
