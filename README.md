@@ -8,7 +8,7 @@ This is a simple Recipe Management System built with PHP and MySQL. The system a
 - Edit existing recipes.
 - Delete recipes from the database.
 - View a list of all recipes.
-- [For video demonstration]([click here](www.google.com))
+- [For video demonstration](https://youtu.be/aXMJVxYEAqU)
 
 ## Installation
 
